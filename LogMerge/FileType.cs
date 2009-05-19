@@ -7,6 +7,7 @@ namespace LogMerge
 {
     class FileCollection
     {
+        //& do you want member variables or properties?
         String Name;
         String Count;
     }
