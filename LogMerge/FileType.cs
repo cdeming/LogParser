@@ -11,3 +11,5 @@ namespace LogMerge
         String Count;
     }
 }
+
+//& cdeming
